@@ -1,2 +1,2 @@
 # Turtle-race
-You can bet with your cousins for the race and can have fun.
+You can bet with your cousins who wins the race and can have fun.
